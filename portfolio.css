@@ -12,6 +12,7 @@ body {
 
 /* ヘッダー */
 .video {
+  background-img:url(https://github.com/yoakami/yoakami.github.io/blob/master/ezgif.com-video-to.jpg?raw=true)
   position: absolute;
   top: 0;
   left: 0;
