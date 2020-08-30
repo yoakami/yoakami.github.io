@@ -62,7 +62,7 @@ header p {
   color: beige;
 }
 
-header img {
+.my {
   display: block;
   margin: auto;
   margin-top: 150px;
