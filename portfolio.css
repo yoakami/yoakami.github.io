@@ -297,7 +297,7 @@ header h1 {
   margin-bottom: 0;
   margin-top: 20px;
   text-align: center;
-  color: beige;
+  color: rgb(82,82,82);
 }
 
 header p {
@@ -305,7 +305,7 @@ header p {
   margin-bottom: 0px;
   padding-top: -15px;
   text-align: center;
-  color: beige;
+  color: rgb(82, 82, 82);
 }
 
 header img {
